@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="AiSignPro Suite">
+    <test name="Login Test">
+        <classes>
+            <class name="test.AiSignProTest"/>
+        </classes>
+    </test>
+</suite>
